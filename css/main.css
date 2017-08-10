@@ -1,0 +1,31 @@
+.header{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 13px;
+  height: 143px;
+  width: 375px;
+  background-color: #A49F9F;
+}
+.location{
+  font-size: 50px;
+}
+.date{
+  font-size: 25px;
+  padding-bottom: 6px;
+}
+.time{
+  font-size: 25px;
+}
+.header_text{
+  font-family: helvetica;
+}
+.current{
+  width:375px;
+  height: 24px;
+  background-color: #7B7B7B;
+  font-size: 16px;
+  text-align: center;
+  padding-top: 6px;
+  margin-top: 46px;
+}
